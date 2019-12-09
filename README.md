@@ -43,6 +43,14 @@ This directory contains all of the code that was used to create and evaluate mod
   * Random Forest
   * XGBoost Tree
 
+* **Ensemble Method**: This directory contains the code and necessary files for an ensemble method that makes use of various models developed as part of the project. The contents of this directory are:
+
+  * `IDS-Project-Ensemble-Method.ipynb`: Code that loads the various models and combines them into an ensemble method.
+
+  * **NN-models**: Directory containing the necessary files for loading the previously trained neural network models.
+
+  * **Trained_Trees**: Directory containing the necessary file for loading the XGBoost tree. The file required to load the random forest was excluded due to the large size of the file. 
+
 ### Documents
 
 This directory contains two files that summarize the key details from the project:
