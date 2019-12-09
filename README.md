@@ -48,6 +48,8 @@ This directory contains all of the code that was used to create and evaluate mod
   * `IDS-Project-Ensemble-Method.ipynb`: Code that loads the various models and combines them into an ensemble method.
   
   * `Ensemble_Method_1`: Code that loads Random Forest and XGBoost models and combines them into an ensemble method
+  
+  * `Ensemble_Method_2`: Code that loads Logistic Regression, Support Vector Machine, Random Forest and Gaussian Naive Bayes Classifiers to create an ensemble Voting Classifier.
 
   * **NN-models**: Directory containing the necessary files for loading the previously trained neural network models.
 
